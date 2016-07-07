@@ -1,10 +1,10 @@
-# Jack
+# Jacki
 
 Multi purpose telegram bot written in MoonScript/lua and licenced under the GNU General Public License.
 
-[Public bot](https://telegram.me/imandabot)
+[Public bot](https://telegram.me/JackiRobot)
 
-[Website](http://jack.seedteam.org)
+[Website](http://jacki-team.com)
 
 Table of Contents
 
@@ -24,8 +24,8 @@ Clone Jack !
 
 ```bash
 cd $HOME
-git clone https://github.com/Imandaneshi/jack-telegram-bot.git
-cd jack-telegram-bot
+git clone https://github.com/Jacki-Team/JackiRobot.git
+cd JackiRobot
 ```
 install it!
 
@@ -1016,13 +1016,11 @@ Listed | Requires API KEY | Enabled by default | inline
 
 # Support and development
 
-Join our development group by sending /join 1047524697 to [@TeleSeed](https://telegram.me/teleseed)
+Join our development group by sending /support to [@JackiRobot](https://telegram.me/JackiRobot)
 
 # Special thanks to
 
-[Alphonse](https://github.com/hmon)
-
-[Vamptacus](https://telegram.me/Vamptacus)
+[SEEDTEAM](https://github.com/SEEDTEAJ)
 
 [topkecleon](https://github.com/topkecleon)
 
@@ -1032,20 +1030,16 @@ Join our development group by sending /join 1047524697 to [@TeleSeed](https://te
 
 # Collaborators
 
-[Unfriendly](https://github.com/pAyDaAr)
+[MrJacki](http://github.com/MrJacki)
 
-[Tiago Danin](https://github.com/TiagoDanin)
+[Tiago Danin](http://github.com/TiagoDanin)
 
 # Other projects
 
-[TeleSeed](https://github.com/SEEDTEAM/TeleSeed)
+[Text Bot](https://github.com/Jacki-Team/Text-Bot)
 
->An advance Administration bot
+>A Simple Api Robot For Save & Send Your Text
 
-[TelegramLoggingBot](https://github.com/SEEDTEAM/TelegramLoggingBot)
+[Maze](https://github.com/SEEDTEAM/TelegramLoggingBot)
 
->Connects 2 groups or can be used to create a logging group
-
-[file-manager-bot](https://github.com/SEEDTEAM/file-manager-bot)
-
->A Linux file manager telegram bot
+>An Api Administration Robot
