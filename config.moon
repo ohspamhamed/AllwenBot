@@ -1,5 +1,5 @@
 _ =
-  telegram_api_key: "264423679:AAH0CMQqND_Z_U2GFMhI2f_PaEiPhYh9_B4" --Your telegram bot api key
+  telegram_api_key: "236577024:AAEYQDCGs34rBFbq1Y7JMk-RJvhNwSIxQeM" --Your telegram bot api key
   insta_api_key: "3084249803.280d5d7.999310365c8248f8948ee0f6929c2f02" --http://bit.ly/1SWWkeY
   google_api_key: "" --http://bit.ly/1VuH0Hl
   bing_api_key: "OMWwOcSjEGXOcig89mO5w42qlyp5QXusLnfL1LH04tY" --http://bit.ly/1Y89l7A
@@ -11,8 +11,7 @@ _ =
   screenshotmachine_api_key: "b645b8"
   cli_port: 7731
   admins: {
-    221425094
-    190142886
+    227014422
   }
   plugs: {
     "9gag"
