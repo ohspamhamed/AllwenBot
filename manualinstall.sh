@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "This program install some modules manually in case you are experiencing LuaRocks errors. Please only execute this when in the root directory of the bot (it should contain config.moon, jackbot.moon, etc). yes/no:"
+read -p "This program install some modules manually in case you are experiencing LuaRocks errors. Please only execute this when in the root directory of the bot (it should contain config.moon, jackibot.moon, etc). yes/no:"
 if [ "$REPLY" != "yes" ]; then
    exit
 fi
