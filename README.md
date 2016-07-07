@@ -24,7 +24,7 @@ Clone Jack !
 
 ```bash
 cd $HOME
-git clone https://github.com/Jacki-Team/JackiRobot.git
+git clone https://github.com/mrjacki/JackiRobot.git
 cd JackiRobot
 ```
 install it!
