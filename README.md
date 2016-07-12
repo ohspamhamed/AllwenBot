@@ -1,10 +1,8 @@
-# Jacki
+# Allwen
 
 Multi purpose telegram bot written in MoonScript/lua and licenced under the GNU General Public License.
 
-[Public bot](https://telegram.me/JackiRobot)
-
-[Website](http://jacki-team.com)
+[Public bot](https://telegram.me/AllwenRobot)
 
 Table of Contents
 
@@ -1036,10 +1034,6 @@ Join our development group by sending /support to [@JackiRobot](https://telegram
 
 # Other projects
 
-[Text Bot](https://github.com/Jacki-Team/Text-Bot)
-
->A Simple Api Robot For Save & Send Your Text
-
-[Maze](https://github.com/SEEDTEAM/TelegramLoggingBot)
+[Ultra](https://github.com/SEEDTEAM/TelegramLoggingBot)
 
 >An Api Administration Robot
