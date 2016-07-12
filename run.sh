@@ -17,7 +17,7 @@ if [ "$1" = "--help" ]; then
 elif [ "$1" = "--about" ]; then
   echo -e "
 
-        \033[31;47mJacki Robot\033[0m
+        \033[31;47mAllwen-Robot\033[0m
 
          By Iman Daneshi
 
@@ -25,15 +25,13 @@ elif [ "$1" = "--about" ]; then
 
 A multi purpose Telegram bot written in MoonScript !
 
-Website: jacki-team.com
-
 "
 elif [ "$1" = "--Update" ]; then
   git pull
 else
   echo -e "
 
-        \033[31;47mJacki Robot\033[0m
+        \033[31;47mAllwen-Robot\033[0m
 
          By Jacki-Team
 
